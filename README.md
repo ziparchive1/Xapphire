@@ -3,7 +3,8 @@ The official Xapphire Linux GitHub repo! The true heir to Librevuan.
 
 ------------------------------------------------------------------------
 
-<img width="1500" height="500" alt="xapphire" src="https://github.com/user-attachments/assets/0a3dfd11-5d8c-44d5-880f-121135d2db23" />
+<img width="300" height="100" alt="xapphire" src="https://github.com/user-attachments/assets/1ac7e110-df8d-435b-aa0a-88373022d8d7" />
+
 
 
 
